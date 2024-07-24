@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hi!👋, Im Malak Mousa
 
 I'm a fourth-year Computer Science Apprenticeship student at An-Najah National University specializing in Software Engineering. I have a solid background in:
 
