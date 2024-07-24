@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm a fourth-year Computer Science Apprenticeship student at An-Najah National University specializing in Software Engineering. I have experience in:
+I'm a fourth-year Computer Science Apprenticeship student at An-Najah National University specializing in Software Engineering. I have a solid background in:
 
 - Frontend Development: React, JavaScript, HTML, CSS.
 - Mobile Development: Flutter, Dart.
