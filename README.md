@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**Malakmousa99/Malakmousa99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fourth-year Computer Science student at An-Najah National University specializing in Software Engineering. I have experience in:
 
-Here are some ideas to get you started:
+- Frontend Development: React, JavaScript, HTML, CSS.
+- Mobile Development: Flutter, Dart.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- GitHub, Figma, Trello, Jira.
+- Team Collaboration and Time Management.
+- 
+ ## Aspiration
+I'm passionate about software engineering and project management, and I'm looking forward to contributing to innovative projects.
+
+## Contact Me
+- [LinkedIn](https://www.linkedin.com/in/malak-mousa/)
+- [GitHub](https://github.com/Malakmousa99)
